@@ -1,0 +1,4 @@
+name "nasu"
+targetPath "build"
+dflags "-preview=shortenedMethods"
+dflags "--link-defaultlib-shared=false" platform="ldc"
